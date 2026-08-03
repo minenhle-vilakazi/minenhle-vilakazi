@@ -1,51 +1,50 @@
-# Hi, I'm Minenhle Vilakazi 👋
+# Hi, I'm Minenhle Vilakazi
 
-I'm building a career at the intersection of **Digital Marketing, Data Analytics, and Healthcare Operations**.
+I document my journey of becoming an exceptional Digital Marketing professional by building practical projects, analyzing successful campaigns, and publishing real-world marketing case studies.
 
-My goal is to help organizations make better decisions using data, marketing, and business intelligence.
+## My Focus
+
+... Search Engine Optimization (SEO)
+
+... Copywriting
+
+... Google Ads
+
+... Meta Ads
+
+... TikTok Ads
+
+... Media Buying
 
 ## Industry Focus
 
-* 🏥 Healthcare
-* 🎵 Entertainment
-* 🏗 Construction
+... Healthcare
 
-## Currently Learning
+... Entertainment
 
-* Search Engine Optimization (SEO)
-* Google Ads
-* Meta Ads
-* Google Analytics 4 (GA4)
-* SQL
-* Power BI
-* Python
-* Excel for Data Analysis
-* Business Intelligence
+... Construction
+
+## Current Mission
+
+I'm building a public portfolio of Digital Marketing projects that demonstrate practical marketing strategies, campaign analysis, and business growth ideas.
+
+Every project is designed to solve a real business problem.
 
 ## Current Projects
 
-* Healthcare Analytics Dashboards
-* Marketing Analytics Dashboards
-* SEO Case Studies
-* Google Ads Performance Analysis
-* SQL Business Projects
-* Python Automation
-* Power BI Reporting
-* AmazingA Group Digital Solutions
+... SEO Case Studies
 
-## Career Goals
+... Google Ads Campaign Breakdowns
 
-I'm seeking opportunities in:
+... Meta Ads Analysis
 
-* SEO Specialist
-* Digital Marketing Assistant
-* Marketing Analyst
-* Junior Data Analyst
-* Healthcare Data Analyst
-* Marketing Data Analyst
-* Business Intelligence
+... TikTok Ads Strategy
 
-I'm available for **Remote, Hybrid, On-site, National Relocation, and International Relocation** opportunities.
+... Marketing Landing Pages
+
+... Marketing Copywriting
+
+... AmazingA Group
 
 ## Connect With Me
 
