@@ -1,6 +1,6 @@
 # Hi, I'm Minenhle Vilakazi
 
-**Jesus is my King.**
+**Jesus is my Lord.**
 
 I'm building a foundation in Mathematics, Computer Science, data, and technology while developing practical skills in SEO, websites, research, and information management.
 
