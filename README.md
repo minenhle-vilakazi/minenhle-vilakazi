@@ -1,53 +1,69 @@
 # Hi, I'm Minenhle Vilakazi
 
-I document my journey of becoming an exceptional Digital Marketing professional by building practical projects, analyzing successful campaigns, and publishing real-world marketing case studies.
+**Jesus is my King.**
 
-## My Focus
+I'm building a foundation in Mathematics, Computer Science, data, and technology while developing practical skills in SEO, websites, research, and information management.
 
-... Search Engine Optimization (SEO)
+## Current Focus
 
-... Copywriting
+### SEO & Website Optimization
+... Keyword research  
+... Search intent research  
+... On-page SEO  
+... SEO audits  
+... Competitor research  
+... Content optimization  
+... Local SEO research  
 
-... Google Ads
+### Website Content & Copywriting
+... Website copy  
+... Landing pages  
+... Service pages  
+... SEO content  
+... Content briefs  
+... Proofreading and editing  
 
-... Meta Ads
+### WordPress & Website Support
+... Website setup  
+... Content uploading  
+... Page and post formatting  
+... Website organization  
+... Basic SEO implementation  
+... Website updates  
 
-... TikTok Ads
+### Data & Research Support
+... Data entry and data capture  
+... Excel and Google Sheets  
+... Data collection  
+... Web research  
+... Data validation  
+... Information organization  
 
-... Media Buying
+## Education
 
-## Industry Focus
+I am committed to beginning a BSc in Mathematics and Computer Science at the University of South Africa (UNISA) in 2027.
 
-... Healthcare
+My long-term direction is Data Science, combining mathematics, programming, statistics, and data-driven problem solving.
 
-... Entertainment
+## Currently Building
 
-... Construction
+... Python foundations  
+... SQL  
+... Statistics  
+... Data analysis  
+... Data visualization  
+... SEO projects  
+... Website projects  
 
-## Current Mission
+## My Approach
 
-I'm building a public portfolio of Digital Marketing projects that demonstrate practical marketing strategies, campaign analysis, and business growth ideas.
+**Research... Organize... Analyze... Improve.**
 
-Every project is designed to solve a real business problem.
+## Connect
 
-## Current Projects
+- LinkedIn: https://www.linkedin.com/in/minenhle-vilakazi01/
+- Linktree: https://linktr.ee/MinenhleVilakazi
 
-... SEO Case Studies
+---
 
-... Google Ads Campaign Breakdowns
-
-... Meta Ads Analysis
-
-... TikTok Ads Strategy
-
-... Marketing Landing Pages
-
-... Marketing Copywriting
-
-... AmazingA Group
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/minenhle-vilakazi02/
-* Linktree:https://linktr.ee/MinenhleVilakazi
-* Portfolio Website (Coming Soon)
+*Building in public. Learning continuously. Creating practical projects.*
