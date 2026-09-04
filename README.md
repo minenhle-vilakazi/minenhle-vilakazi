@@ -1,59 +1,52 @@
 # Hi, I'm Minenhle Vilakazi
 
-**Jesus is my Lord.**
+**Jesus Is My Lord and Savior.**
 
-I'm building a foundation in Mathematics, Computer Science, data, and technology while developing practical skills in SEO, websites, research, and information management.
+I'm building a career around data, technology, mathematics, and computer science.
+
+My current professional focus is **Data Support and Information Management**, including data entry, data capture, data collection, research, spreadsheet organization, data validation, and information management.
 
 ## Current Focus
 
-### SEO & Website Optimization
-... Keyword research  
-... Search intent research  
-... On-page SEO  
-... SEO audits  
-... Competitor research  
-... Content optimization  
-... Local SEO research  
+### Data Support
 
-### Website Content & Copywriting
-... Website copy  
-... Landing pages  
-... Service pages  
-... SEO content  
-... Content briefs  
-... Proofreading and editing  
+... Data Entry
+... Data Capture
+... Data Collection
+... Data Validation
+... Data Cleaning
+... Data Formatting
+... Spreadsheet Organization
+... Web Research
 
-### WordPress & Website Support
-... Website setup  
-... Content uploading  
-... Page and post formatting  
-... Website organization  
-... Basic SEO implementation  
-... Website updates  
+### Tools
 
-### Data & Research Support
-... Data entry and data capture  
-... Excel and Google Sheets  
-... Data collection  
-... Web research  
-... Data validation  
-... Information organization  
+... Microsoft Excel
+... Google Sheets
+... Git & GitHub
 
-## Education
+## Academic Direction
 
-I am committed to beginning a BSc in Mathematics and Computer Science at the University of South Africa (UNISA) in 2027.
+I am committed to beginning a **BSc in Mathematics and Computer Science at UNISA in 2027**.
 
-My long-term direction is Data Science, combining mathematics, programming, statistics, and data-driven problem solving.
+My long-term direction is **Data Science**, and I am gradually building the mathematical, computational, and analytical foundation required for that field.
 
-## Currently Building
+As I progress, this GitHub profile will document my development through practical projects involving:
 
-... Python foundations  
-... SQL  
-... Statistics  
-... Data analysis  
-... Data visualization  
-... SEO projects  
-... Website projects  
+... Mathematics
+... Programming
+... Statistics
+... Data Analysis
+... SQL
+... Python
+... Data Visualization
+... Databases
+
+## Projects
+
+I believe in learning by building.
+
+My repositories will document practical projects, experiments, research, and lessons learned as I develop my technical skills.
 
 ## My Approach
 
@@ -61,9 +54,7 @@ My long-term direction is Data Science, combining mathematics, programming, stat
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/minenhle-vilakazi01/
-- Linktree: https://linktr.ee/MinenhleVilakazi
+LinkedIn: https://www.linkedin.com/
 
----
+Portfolio: https://linktr.ee/MinenhleVilakazi
 
-*Building in public. Learning continuously. Creating practical projects.*
