@@ -1,60 +1,32 @@
-# Hi, I'm Minenhle Vilakazi
+# Minenhle Vilakazi
 
-**Jesus Is My Lord and Savior.**
+Practical, project-driven technical professional focused on **Data Operations, Analytics, and Web/Information Systems**. 
 
-I'm building a career around data, technology, mathematics, and computer science.
+I specialize in data integrity, cleaning messy datasets, building SQL databases, writing Python automation scripts, and maintaining web systems. Preparing for a BSc in Mathematics and Computer Science at UNISA (2027).
 
-My current professional focus is **Data Support and Information Management**, including data entry, data capture, data collection, research, spreadsheet organization, data validation, and information management.
+---
 
-## Current Focus
+### Core Technical Focus
 
-### Data Support
+- **Data & Databases:** SQL (PostgreSQL / SQLite), Excel, Data Normalization, Data Quality Auditing
+- **Scripting & Automation:** Python (pandas, NumPy, automated scraping, data transformation)
+- **Web & CMS Systems:** WordPress architecture, PHP fundamentals, Technical SEO data audits, HTML/CSS
+- **Documentation & Standards:** Technical writing, standard operating procedures (SOPs), Markdown
 
-... Data Entry
-... Data Capture
-... Data Collection
-... Data Validation
-... Data Cleaning
-... Data Formatting
-... Spreadsheet Organization
-... Web Research
+---
 
-### Tools
+### Structured Portfolio Progression
 
-... Microsoft Excel
-... Google Sheets
-... Git & GitHub
+| Category | Primary Focus | Key Technologies |
+| :--- | :--- | :--- |
+| **01. Data Integrity & Cleaning** | Normalization, missing values, error checks | Python (pandas), Excel |
+| **02. Relational Databases** | Schema design, complex queries, ETL logic | SQL, PostgreSQL, SQLite |
+| **03. Business & Domain Analytics** | Operational reporting, healthcare & logistics metrics | Python, SQL, Visualization |
+| **04. Web & CMS Engineering** | Catalog systems, technical SEO, WordPress structures | PHP, WordPress, Python |
 
-## Academic Direction
+---
 
-I am committed to beginning a **BSc in Mathematics and Computer Science at UNISA in 2027**.
-
-My long-term direction is **Data Science**, and I am gradually building the mathematical, computational, and analytical foundation required for that field.
-
-As I progress, this GitHub profile will document my development through practical projects involving:
-
-... Mathematics
-... Programming
-... Statistics
-... Data Analysis
-... SQL
-... Python
-... Data Visualization
-... Databases
-
-## Projects
-
-I believe in learning by building.
-
-My repositories will document practical projects, experiments, research, and lessons learned as I develop my technical skills.
-
-## My Approach
-
-**Research... Organize... Analyze... Improve.**
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/
-
-Portfolio: https://linktr.ee/MinenhleVilakazi
+### Contact & Profiles
+- **LinkedIn:** [linkedin.com/in/minenhle-vilakazi02](https://linkedin.com/in/minenhle-vilakazi02/)
+- **Location:** Durban, South Africa (Open to local, hybrid, remote, and relocation)
 
