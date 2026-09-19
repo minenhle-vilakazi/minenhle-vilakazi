@@ -18,5 +18,6 @@ Analytical, math-driven developer specializing in quantitative finance, algorith
 | **03. Financial Data Engineering** | Time-series data extraction, cleaning noisy tick data, relational database schemas | SQL, BigQuery, Python |
 | **04. Statistical Analysis** | Market variance, risk metrics, predictive modeling on structured datasets | Python (Pandas, NumPy), Excel |
 
-📫 **Let's Connect:** [linkedin.com/in/minenhle-vilakazi02]
+📫 **Let's Connect:** [Linkedin: https://linkedin.com/in/minenhle-vilakazi02]
+                       [Linktree: https://linktr.ee/MinenhleVilakazi]
 📍 **Location:** Durban, South Africa (Open to remote, hybrid, and relocation)
