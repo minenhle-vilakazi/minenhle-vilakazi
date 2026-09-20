@@ -1,6 +1,6 @@
 # Minenhle Vilakazi | Quantitative Developer & Analyst
 
-Analytical, math-driven developer specializing in quantitative finance, algorithmic trading architectures, and financial data engineering. I build statistical models, automate trading logic, and structure complex financial datasets. Currently pursuing a BSc in Mathematics and Computer Science at UNISA.
+Analytical, math-driven developer specializing in quantitative finance, algorithmic trading architectures, and financial data engineering. I build statistical models, automate trading logic, and structure complex financial datasets. Currently pursuing a BSc in Mathematics and Computer Science at the University Of South Africa.
 
 ### 🛠️ Core Technical Focus
 
